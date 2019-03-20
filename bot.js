@@ -391,4 +391,4 @@ if (message.content.startsWith(prefix + 'setplay')) {
 });
 
 
-client.login(process.env.BOT_TOKEN); 
+client.login("NTU3OTMxOTY3ODExOTQ0NDg4.D3Pelw.947yAf-WBLLPFZosSnSdsIn939k"); 
